@@ -61,4 +61,3 @@ Option                      | Type     | Description                            
 `containerSelector`         | String   | Selector for tab containers                                      | `> .tab-container > div`
 `selectedClass`             | String   | Class name to apply to the selected tab link                     | `selected`
 `hiddenClass`               | String   | Class name to apply to non-selected tabs                         | `hidden`
-
